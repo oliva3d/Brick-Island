@@ -16,4 +16,7 @@ Here’s the .blend file for you to download and modify as you wish:
 
 [Download 3D Model](https://drive.proton.me/urls/E6A8TPB2SR#tpvLFka1DOQ2)
 
+
+![Island](https://github.com/oliva3d/Brick-Island/blob/main/Preview%20models/Island1.png?raw=true)
+
 I hope you like it, and I’m excited to keep improving this project together!
