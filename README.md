@@ -4,7 +4,7 @@ Welcome to the **Brick Island** project! This space is designed to build a commu
 
 ## 3D Model Enhancements
 
-So far, I have worked on improving the island by updating most of the textures. These have been replaced with high-quality materials compatible with HD, 2K, and 4K resolutions. The goal is to modernize the island’s look while preserving the essence of the original game.
+So far, I have worked on improving the island by updating most of the textures. These have been replaced with high-quality materials compatible with HD, 2K, and 4K resolutions, the windows now are transparent and you can see inside and the beach now is smoother. The goal is to modernize the island’s look while preserving the essence of the original game.
 
 ## Help with Optimization
 
