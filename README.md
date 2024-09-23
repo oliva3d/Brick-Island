@@ -20,3 +20,8 @@ Here’s the .blend file for you to download and modify as you wish:
 ![Island](https://github.com/oliva3d/Brick-Island/blob/main/Preview%20models/Island1.png?raw=true)
 
 I hope you like it, and I’m excited to keep improving this project together!
+
+
+## Legal
+
+I have consulted with LEGO company, and they have informed me that it is possible to carry out a project of this kind, as long as it does not give the impression that it was made by LEGO in any way, whether through a logo, name, or anything similar.
